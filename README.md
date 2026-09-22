@@ -9,3 +9,4 @@ practica realizada mediante linux utilizando los metodos de git y github
 estoy aprendidendo version de controles de github 
 
 desde visual code
+tecnologico
