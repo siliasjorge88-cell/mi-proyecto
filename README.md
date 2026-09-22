@@ -7,3 +7,5 @@ practica realizada mediante linux utilizando los metodos de git y github
 #seguimos practicando 
 
 estoy aprendidendo version de controles de github 
+
+desde visual code
